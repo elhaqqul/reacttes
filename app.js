@@ -1,7 +1,7 @@
 
 var A = React.createClass({
 	render: function(){
-		return (<p>a</p>)
+		return (<p>aeded</p>)
 	}
 });
 
